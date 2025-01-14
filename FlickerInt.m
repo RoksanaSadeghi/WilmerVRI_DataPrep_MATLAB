@@ -1,6 +1,6 @@
 function [e_list,c] = FlickerInt(O,c,num,time)
 if sum(O=='FlickerIntH888888888')==length('FlickerIntH')
-    e_list(c).sceneName = '18-flickering-contrast';
+    e_list(c).sceneName = '20-flickering-contrast';
     e_list(c).sceneTitle = 'Flickering (Contrast Variation)';
     e_list(c).sceneIndex = 20;
     e_list(c).presentationTime = time;
@@ -14,7 +14,7 @@ if sum(O=='FlickerIntH888888888')==length('FlickerIntH')
     e_list(c).option_dict.value_strings(3).PrettyName = 'Demo';
     
     c = c+1;
-    e_list(c).sceneName = '18-flickering-contrast';
+    e_list(c).sceneName = '20-flickering-contrast';
     e_list(c).sceneTitle = 'Flickering (Contrast Variation)';
     e_list(c).sceneIndex = 20;
     e_list(c).presentationTime = time;
@@ -30,7 +30,7 @@ if sum(O=='FlickerIntH888888888')==length('FlickerIntH')
     
     c = c+1;
     for q = 1:num
-        e_list(c).sceneName = '18-flickering-contrast';
+        e_list(c).sceneName = '20-flickering-contrast';
         e_list(c).sceneTitle = 'Flickering (Contrast Variation)';
         e_list(c).sceneIndex = 20;
         e_list(c).presentationTime = time;
@@ -49,7 +49,7 @@ end
 
 
 if sum(O=='FlickerIntM888888888')==length('FlickerIntM')
-    e_list(c).sceneName = '18-flickering-contrast';
+    e_list(c).sceneName = '20-flickering-contrast';
     e_list(c).sceneTitle = 'Flickering (Contrast Variation)';
     e_list(c).sceneIndex = 20;
     e_list(c).presentationTime = time;
@@ -63,7 +63,7 @@ if sum(O=='FlickerIntM888888888')==length('FlickerIntM')
     e_list(c).option_dict.value_strings(3).PrettyName = 'Demo';
     
     c = c+1;
-    e_list(c).sceneName = '18-flickering-contrast';
+    e_list(c).sceneName = '20-flickering-contrast';
     e_list(c).sceneTitle = 'Flickering (Contrast Variation)';
     e_list(c).sceneIndex = 20;
     e_list(c).presentationTime = time;
@@ -79,7 +79,7 @@ if sum(O=='FlickerIntM888888888')==length('FlickerIntM')
     
     c = c+1;
     for q = 1:num
-        e_list(c).sceneName = '18-flickering-contrast';
+        e_list(c).sceneName = '20-flickering-contrast';
         e_list(c).sceneTitle = 'Flickering (Contrast Variation)';
         e_list(c).sceneIndex = 20;
         e_list(c).presentationTime = time;
@@ -97,7 +97,7 @@ if sum(O=='FlickerIntM888888888')==length('FlickerIntM')
 end
 
 if sum(O=='FlickerIntL888888888')==length('FlickerIntL')
-    e_list(c).sceneName = '18-flickering-contrast';
+    e_list(c).sceneName = '20-flickering-contrast';
     e_list(c).sceneTitle = 'Flickering (Contrast Variation)';
     e_list(c).sceneIndex = 20;
     e_list(c).presentationTime = time;
@@ -111,7 +111,7 @@ if sum(O=='FlickerIntL888888888')==length('FlickerIntL')
     e_list(c).option_dict.value_strings(3).PrettyName = 'Demo';
     
     c = c+1;
-    e_list(c).sceneName = '18-flickering-contrast';
+    e_list(c).sceneName = '20-flickering-contrast';
     e_list(c).sceneTitle = 'Flickering (Contrast Variation)';
     e_list(c).sceneIndex = 20;
     e_list(c).presentationTime = time;
@@ -127,7 +127,7 @@ if sum(O=='FlickerIntL888888888')==length('FlickerIntL')
     
     c = c+1;
     for q = 1:num
-        e_list(c).sceneName = '18-flickering-contrast';
+        e_list(c).sceneName = '20-flickering-contrast';
         e_list(c).sceneTitle = 'Flickering (Contrast Variation)';
         e_list(c).sceneIndex = 20;
         e_list(c).presentationTime = time;

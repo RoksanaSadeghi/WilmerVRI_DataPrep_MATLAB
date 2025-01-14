@@ -1,6 +1,6 @@
 function [e_list,c] = Candle(O,c,num,time)
 if sum(O=='CandleH8888888888888')==length('CandleH')
-    e_list(c).sceneName = '04-candles';
+    e_list(c).sceneName = '06-candles';
     e_list(c).sceneTitle = 'Candle';
     e_list(c).sceneIndex = 6;
     e_list(c).presentationTime = time;
@@ -14,7 +14,7 @@ if sum(O=='CandleH8888888888888')==length('CandleH')
     e_list(c).option_dict.value_strings(3).PrettyName = 'Demo';
     
     c = c+1;
-    e_list(c).sceneName = '04-candles';
+    e_list(c).sceneName = '06-candles';
     e_list(c).sceneTitle = 'Candle';
     e_list(c).sceneIndex = 6;
     e_list(c).presentationTime = time;
@@ -28,7 +28,7 @@ if sum(O=='CandleH8888888888888')==length('CandleH')
     e_list(c).option_dict.value_strings(3).PrettyName = 'Demo';
     
     c = c+1;
-    e_list(c).sceneName = '04-candles';
+    e_list(c).sceneName = '06-candles';
     e_list(c).sceneTitle = 'Candle';
     e_list(c).sceneIndex = 6;
     e_list(c).presentationTime = time;
@@ -43,7 +43,7 @@ if sum(O=='CandleH8888888888888')==length('CandleH')
     
     c = c+1;
     for q = 1:num
-        e_list(c).sceneName = '04-candles';
+        e_list(c).sceneName = '06-candles';
         e_list(c).sceneTitle = 'Candle';
         e_list(c).sceneIndex = 6;
         e_list(c).presentationTime = time;
@@ -61,7 +61,7 @@ if sum(O=='CandleH8888888888888')==length('CandleH')
 end
 
 if sum(O=='CandleM8888888888888')==length('CandleM')
-    e_list(c).sceneName = '04-candles';
+    e_list(c).sceneName = '06-candles';
     e_list(c).sceneTitle = 'Candle';
     e_list(c).sceneIndex = 6;
     e_list(c).presentationTime = time;
@@ -75,7 +75,7 @@ if sum(O=='CandleM8888888888888')==length('CandleM')
     e_list(c).option_dict.value_strings(3).PrettyName = 'Demo';
     
     c = c+1;
-    e_list(c).sceneName = '04-candles';
+    e_list(c).sceneName = '06-candles';
     e_list(c).sceneTitle = 'Candle';
     e_list(c).sceneIndex = 6;
     e_list(c).presentationTime = time;
@@ -89,7 +89,7 @@ if sum(O=='CandleM8888888888888')==length('CandleM')
     e_list(c).option_dict.value_strings(3).PrettyName = 'Demo';
     
     c = c+1;
-    e_list(c).sceneName = '04-candles';
+    e_list(c).sceneName = '06-candles';
     e_list(c).sceneTitle = 'Candle';
     e_list(c).sceneIndex = 6;
     e_list(c).presentationTime = time;
@@ -104,7 +104,7 @@ if sum(O=='CandleM8888888888888')==length('CandleM')
     
     c = c+1;
     for q = 1:num
-        e_list(c).sceneName = '04-candles';
+        e_list(c).sceneName = '06-candles';
         e_list(c).sceneTitle = 'Candle';
         e_list(c).sceneIndex = 6;
         e_list(c).presentationTime = time;
@@ -122,7 +122,7 @@ if sum(O=='CandleM8888888888888')==length('CandleM')
 end
 
 if sum(O=='CandleL8888888888888')==length('CandleL')
-    e_list(c).sceneName = '04-candles';
+    e_list(c).sceneName = '06-candles';
     e_list(c).sceneTitle = 'Candle';
     e_list(c).sceneIndex = 6;
     e_list(c).presentationTime = time;
@@ -136,7 +136,7 @@ if sum(O=='CandleL8888888888888')==length('CandleL')
     e_list(c).option_dict.value_strings(3).PrettyName = 'Demo';
     
     c = c+1;
-    e_list(c).sceneName = '04-candles';
+    e_list(c).sceneName = '06-candles';
     e_list(c).sceneTitle = 'Candle';
     e_list(c).sceneIndex = 6;
     e_list(c).presentationTime = time;
@@ -150,7 +150,7 @@ if sum(O=='CandleL8888888888888')==length('CandleL')
     e_list(c).option_dict.value_strings(3).PrettyName = 'Demo';
     
     c = c+1;
-    e_list(c).sceneName = '04-candles';
+    e_list(c).sceneName = '06-candles';
     e_list(c).sceneTitle = 'Candle';
     e_list(c).sceneIndex = 6;
     e_list(c).presentationTime = time;
@@ -165,7 +165,7 @@ if sum(O=='CandleL8888888888888')==length('CandleL')
     
     c = c+1;
     for q = 1:num
-        e_list(c).sceneName = '04-candles';
+        e_list(c).sceneName = '06-candles';
         e_list(c).sceneTitle = 'Candle';
         e_list(c).sceneIndex = 6;
         e_list(c).presentationTime = time;

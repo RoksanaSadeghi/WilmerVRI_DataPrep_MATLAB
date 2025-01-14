@@ -1,6 +1,6 @@
 function [e_list,c] = FlickerFreq(O,c,num,time)
 if sum(O=='FlickerFreqH88888888')==length('FlickerFreqH')
-    e_list(c).sceneName = '19-flickering-refresh-rate';
+    e_list(c).sceneName = '21-flickering-refresh-rate';
     e_list(c).sceneTitle = 'Flickering (Refresh Variation)';
     e_list(c).sceneIndex = 21;
     e_list(c).presentationTime = time;
@@ -14,7 +14,7 @@ if sum(O=='FlickerFreqH88888888')==length('FlickerFreqH')
     e_list(c).option_dict.value_strings(3).PrettyName = 'Demo';
     
     c = c+1;
-    e_list(c).sceneName = '19-flickering-refresh-rate';
+    e_list(c).sceneName = '21-flickering-refresh-rate';
     e_list(c).sceneTitle = 'Flickering (Refresh Variation)';
     e_list(c).sceneIndex = 21;
     e_list(c).presentationTime = time;
@@ -30,7 +30,7 @@ if sum(O=='FlickerFreqH88888888')==length('FlickerFreqH')
     
     c = c+1;
     for q = 1:num
-        e_list(c).sceneName = '19-flickering-refresh-rate';
+        e_list(c).sceneName = '21-flickering-refresh-rate';
         e_list(c).sceneTitle = 'Flickering (Refresh Variation)';
         e_list(c).sceneIndex = 21;
         e_list(c).presentationTime = time;
@@ -49,7 +49,7 @@ end
 
 
 if sum(O=='FlickerFreqM88888888')==length('FlickerFreqM')
-    e_list(c).sceneName = '19-flickering-refresh-rate';
+    e_list(c).sceneName = '21-flickering-refresh-rate';
     e_list(c).sceneTitle = 'Flickering (Refresh Variation)';
     e_list(c).sceneIndex = 21;
     e_list(c).presentationTime = time;
@@ -63,7 +63,7 @@ if sum(O=='FlickerFreqM88888888')==length('FlickerFreqM')
     e_list(c).option_dict.value_strings(3).PrettyName = 'Demo';
     
     c = c+1;
-    e_list(c).sceneName = '19-flickering-refresh-rate';
+    e_list(c).sceneName = '21-flickering-refresh-rate';
     e_list(c).sceneTitle = 'Flickering (Refresh Variation)';
     e_list(c).sceneIndex = 21;
     e_list(c).presentationTime = time;
@@ -79,7 +79,7 @@ if sum(O=='FlickerFreqM88888888')==length('FlickerFreqM')
     
     c = c+1;
     for q = 1:num
-        e_list(c).sceneName = '19-flickering-refresh-rate';
+        e_list(c).sceneName = '21-flickering-refresh-rate';
         e_list(c).sceneTitle = 'Flickering (Refresh Variation)';
         e_list(c).sceneIndex = 21;
         e_list(c).presentationTime = time;
@@ -97,7 +97,7 @@ if sum(O=='FlickerFreqM88888888')==length('FlickerFreqM')
 end
 
 if sum(O=='FlickerFreqL88888888')==length('FlickerFreqL')
-    e_list(c).sceneName = '19-flickering-refresh-rate';
+    e_list(c).sceneName = '21-flickering-refresh-rate';
     e_list(c).sceneTitle = 'Flickering (Refresh Variation)';
     e_list(c).sceneIndex = 21;
     e_list(c).presentationTime = time;
@@ -111,7 +111,7 @@ if sum(O=='FlickerFreqL88888888')==length('FlickerFreqL')
     e_list(c).option_dict.value_strings(3).PrettyName = 'Demo';
     
     c = c+1;
-    e_list(c).sceneName = '19-flickering-refresh-rate';
+    e_list(c).sceneName = '21-flickering-refresh-rate';
     e_list(c).sceneTitle = 'Flickering (Refresh Variation)';
     e_list(c).sceneIndex = 21;
     e_list(c).presentationTime = time;
@@ -127,7 +127,7 @@ if sum(O=='FlickerFreqL88888888')==length('FlickerFreqL')
     
     c = c+1;
     for q = 1:num
-        e_list(c).sceneName = '19-flickering-refresh-rate';
+        e_list(c).sceneName = '21-flickering-refresh-rate';
         e_list(c).sceneTitle = 'Flickering (Refresh Variation)';
         e_list(c).sceneIndex = 21;
         e_list(c).presentationTime = time;

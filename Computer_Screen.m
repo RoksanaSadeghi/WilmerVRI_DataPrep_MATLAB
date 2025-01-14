@@ -1,6 +1,6 @@
 function [e_list,c] = Computer_Screen(O,c,num,time)
 if sum(ismember(O,'H'))==1
-    e_list(c).sceneName = '05-computer-screen';
+    e_list(c).sceneName = '07-computer-screen';
     e_list(c).sceneTitle = 'Computer Screen';
     e_list(c).sceneIndex = 7;
     e_list(c).presentationTime = time;
@@ -14,7 +14,7 @@ if sum(ismember(O,'H'))==1
     e_list(c).option_dict.value_strings(3).PrettyName = 'Demo';
     
     c = c+1;
-    e_list(c).sceneName = '05-computer-screen';
+    e_list(c).sceneName = '07-computer-screen';
     e_list(c).sceneTitle = 'Computer Screen';
     e_list(c).sceneIndex = 7;
     e_list(c).presentationTime = time;
@@ -29,7 +29,7 @@ if sum(ismember(O,'H'))==1
     
     c = c+1;
     for q = 1:num
-        e_list(c).sceneName = '05-computer-screen';
+        e_list(c).sceneName = '07-computer-screen';
         e_list(c).sceneTitle = 'Computer Screen';
         e_list(c).sceneIndex = 7;
         e_list(c).presentationTime = time;
@@ -47,7 +47,7 @@ if sum(ismember(O,'H'))==1
 end
 
 if sum(ismember(O,'M'))==1
-    e_list(c).sceneName = '05-computer-screen';
+    e_list(c).sceneName = '07-computer-screen';
     e_list(c).sceneTitle = 'Computer Screen';
     e_list(c).sceneIndex = 7;
     e_list(c).presentationTime = time;
@@ -61,7 +61,7 @@ if sum(ismember(O,'M'))==1
     e_list(c).option_dict.value_strings(3).PrettyName = 'Demo';
     
     c = c+1;
-    e_list(c).sceneName = '05-computer-screen';
+    e_list(c).sceneName = '07-computer-screen';
     e_list(c).sceneTitle = 'Computer Screen';
     e_list(c).sceneIndex = 7;
     e_list(c).presentationTime = time;
@@ -76,7 +76,7 @@ if sum(ismember(O,'M'))==1
     
     c = c+1;
     for q = 1:num
-        e_list(c).sceneName = '05-computer-screen';
+        e_list(c).sceneName = '07-computer-screen';
         e_list(c).sceneTitle = 'Computer Screen';
         e_list(c).sceneIndex = 7;
         e_list(c).presentationTime = time;
@@ -95,7 +95,7 @@ end
 
 
 if sum(ismember(O,'L'))==1
-    e_list(c).sceneName = '05-computer-screen';
+    e_list(c).sceneName = '07-computer-screen';
     e_list(c).sceneTitle = 'Computer Screen';
     e_list(c).sceneIndex = 7;
     e_list(c).presentationTime = time;
@@ -109,7 +109,7 @@ if sum(ismember(O,'L'))==1
     e_list(c).option_dict.value_strings(3).PrettyName = 'Demo';
     
     c = c+1;
-    e_list(c).sceneName = '05-computer-screen';
+    e_list(c).sceneName = '07-computer-screen';
     e_list(c).sceneTitle = 'Computer Screen';
     e_list(c).sceneIndex = 7;
     e_list(c).presentationTime = time;
@@ -124,7 +124,7 @@ if sum(ismember(O,'L'))==1
     
     c = c+1;
     for q = 1:num
-        e_list(c).sceneName = '05-computer-screen';
+        e_list(c).sceneName = '07-computer-screen';
         e_list(c).sceneTitle = 'Computer Screen';
         e_list(c).sceneIndex = 7;
         e_list(c).presentationTime = time;

@@ -1,6 +1,6 @@
 function [e_list,c] = Room_Light(O,c,num,time)
 if sum(O=='Room LightH888888888')==length('Room LightH')
-    e_list(c).sceneName = '06-room-light';
+    e_list(c).sceneName = '08-room-light';
     e_list(c).sceneTitle = 'Room Light';
     e_list(c).sceneIndex = 8;
     e_list(c).presentationTime = time;
@@ -14,7 +14,7 @@ if sum(O=='Room LightH888888888')==length('Room LightH')
     e_list(c).option_dict.value_strings(3).PrettyName = 'Demo';
     
     c = c+1;
-    e_list(c).sceneName = '06-room-light';
+    e_list(c).sceneName = '08-room-light';
     e_list(c).sceneTitle = 'Room Light';
     e_list(c).sceneIndex = 8;
     e_list(c).presentationTime = time;
@@ -29,7 +29,7 @@ if sum(O=='Room LightH888888888')==length('Room LightH')
     
     c = c+1;
     for q = 1:num
-        e_list(c).sceneName = '06-room-light';
+        e_list(c).sceneName = '08-room-light';
         e_list(c).sceneTitle = 'Room Light';
         e_list(c).sceneIndex = 8;
         e_list(c).presentationTime = time;
@@ -47,7 +47,7 @@ if sum(O=='Room LightH888888888')==length('Room LightH')
 end
 
 if sum(O=='Room LightM888888888')==length('Room LightM')
-    e_list(c).sceneName = '06-room-light';
+    e_list(c).sceneName = '08-room-light';
     e_list(c).sceneTitle = 'Room Light';
     e_list(c).sceneIndex = 8;
     e_list(c).presentationTime = time;
@@ -61,7 +61,7 @@ if sum(O=='Room LightM888888888')==length('Room LightM')
     e_list(c).option_dict.value_strings(3).PrettyName = 'Demo';
     
     c = c+1;
-    e_list(c).sceneName = '06-room-light';
+    e_list(c).sceneName = '08-room-light';
     e_list(c).sceneTitle = 'Room Light';
     e_list(c).sceneIndex = 8;
     e_list(c).presentationTime = time;
@@ -76,7 +76,7 @@ if sum(O=='Room LightM888888888')==length('Room LightM')
     
     c = c+1;
     for q = 1:num
-        e_list(c).sceneName = '06-room-light';
+        e_list(c).sceneName = '08-room-light';
         e_list(c).sceneTitle = 'Room Light';
         e_list(c).sceneIndex = 8;
         e_list(c).presentationTime = time;
@@ -94,7 +94,7 @@ if sum(O=='Room LightM888888888')==length('Room LightM')
 end
 
 if sum(O=='Room LightL888888888')==length('Room LightL')
-    e_list(c).sceneName = '06-room-light';
+    e_list(c).sceneName = '08-room-light';
     e_list(c).sceneTitle = 'Room Light';
     e_list(c).sceneIndex = 8;
     e_list(c).presentationTime = time;
@@ -108,7 +108,7 @@ if sum(O=='Room LightL888888888')==length('Room LightL')
     e_list(c).option_dict.value_strings(3).PrettyName = 'Demo';
     
     c = c+1;
-    e_list(c).sceneName = '06-room-light';
+    e_list(c).sceneName = '08-room-light';
     e_list(c).sceneTitle = 'Room Light';
     e_list(c).sceneIndex = 8;
     e_list(c).presentationTime = time;
@@ -123,7 +123,7 @@ if sum(O=='Room LightL888888888')==length('Room LightL')
     
     c = c+1;
     for q = 1:num
-        e_list(c).sceneName = '06-room-light';
+        e_list(c).sceneName = '08-room-light';
         e_list(c).sceneTitle = 'Room Light';
         e_list(c).sceneIndex = 8;
         e_list(c).presentationTime = time;

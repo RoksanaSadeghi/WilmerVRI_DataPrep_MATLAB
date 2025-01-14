@@ -1,6 +1,6 @@
 function [e_list,c] = pretest_RoomLight(O,c,num,time)
 
-e_list(c).sceneName = '001-pre-test-roomlight';
+e_list(c).sceneName = '00-pre-test-roomlight';
 e_list(c).sceneTitle = 'Room Light (Pretest)';
 e_list(c).sceneIndex = 0;
 e_list(c).presentationTime = time;
@@ -14,7 +14,7 @@ e_list(c).option_dict.value_strings(3).ToggleName = 'Demo Mode';
 e_list(c).option_dict.value_strings(3).PrettyName = 'Demo';
 
 c = c+1;
-e_list(c).sceneName = '001-pre-test-roomlight';
+e_list(c).sceneName = '00-pre-test-roomlight';
 e_list(c).sceneTitle = 'Room Light (Pretest)';
 e_list(c).sceneIndex = 0;
 e_list(c).presentationTime = time;
@@ -29,7 +29,7 @@ e_list(c).option_dict.value_strings(3).PrettyName = 'Demo';
 
 c = c+1;
 for q = 1:num
-    e_list(c).sceneName = '001-pre-test-roomlight';
+    e_list(c).sceneName = '00-pre-test-roomlight';
     e_list(c).sceneTitle = 'Room Light (Pretest)';
     e_list(c).sceneIndex = 0;
     e_list(c).presentationTime = time;

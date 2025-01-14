@@ -1,6 +1,6 @@
 function [e_list,c] = Tie(O,c,num,time)
 if sum(O=='TieH8888888888888888')==length('TieH')
-    e_list(c).sceneName = '11-tie';
+    e_list(c).sceneName = '13-tie';
     e_list(c).sceneTitle = 'Tie';
     e_list(c).sceneIndex = 13;
     e_list(c).presentationTime = time;
@@ -14,7 +14,7 @@ if sum(O=='TieH8888888888888888')==length('TieH')
     e_list(c).option_dict.value_strings(3).PrettyName = 'Demo';
     
     c = c+1;
-    e_list(c).sceneName = '11-tie';
+    e_list(c).sceneName = '13-tie';
     e_list(c).sceneTitle = 'Tie';
     e_list(c).sceneIndex = 13;
     e_list(c).presentationTime = time;
@@ -30,7 +30,7 @@ if sum(O=='TieH8888888888888888')==length('TieH')
     
     c = c+1;
     for q = 1:num
-        e_list(c).sceneName = '11-tie';
+        e_list(c).sceneName = '13-tie';
         e_list(c).sceneTitle = 'Tie';
         e_list(c).sceneIndex = 13;
         e_list(c).presentationTime = time;
@@ -48,7 +48,7 @@ if sum(O=='TieH8888888888888888')==length('TieH')
 end
 
 if sum(O=='TieM8888888888888888')==length('TieM')
-    e_list(c).sceneName = '11-tie';
+    e_list(c).sceneName = '13-tie';
     e_list(c).sceneTitle = 'Tie';
     e_list(c).sceneIndex = 13;
     e_list(c).presentationTime = time;
@@ -62,7 +62,7 @@ if sum(O=='TieM8888888888888888')==length('TieM')
     e_list(c).option_dict.value_strings(3).PrettyName = 'Demo';
     
     c = c+1;
-    e_list(c).sceneName = '11-tie';
+    e_list(c).sceneName = '13-tie';
     e_list(c).sceneTitle = 'Tie';
     e_list(c).sceneIndex = 13;
     e_list(c).presentationTime = time;
@@ -78,7 +78,7 @@ if sum(O=='TieM8888888888888888')==length('TieM')
     
     c = c+1;
     for q = 1:num
-        e_list(c).sceneName = '11-tie';
+        e_list(c).sceneName = '13-tie';
         e_list(c).sceneTitle = 'Tie';
         e_list(c).sceneIndex = 13;
         e_list(c).presentationTime = time;
@@ -96,7 +96,7 @@ if sum(O=='TieM8888888888888888')==length('TieM')
 end
 
 if sum(O=='TieL8888888888888888')==length('TieL')
-    e_list(c).sceneName = '11-tie';
+    e_list(c).sceneName = '13-tie';
     e_list(c).sceneTitle = 'Tie';
     e_list(c).sceneIndex = 13;
     e_list(c).presentationTime = time;
@@ -110,7 +110,7 @@ if sum(O=='TieL8888888888888888')==length('TieL')
     e_list(c).option_dict.value_strings(3).PrettyName = 'Demo';
     
     c = c+1;
-    e_list(c).sceneName = '11-tie';
+    e_list(c).sceneName = '13-tie';
     e_list(c).sceneTitle = 'Tie';
     e_list(c).sceneIndex = 13;
     e_list(c).presentationTime = time;
@@ -126,7 +126,7 @@ if sum(O=='TieL8888888888888888')==length('TieL')
     
     c = c+1;
     for q = 1:num
-        e_list(c).sceneName = '11-tie';
+        e_list(c).sceneName = '13-tie';
         e_list(c).sceneTitle = 'Tie';
         e_list(c).sceneIndex = 13;
         e_list(c).presentationTime = time;

@@ -1,6 +1,6 @@
 function [e_list,c] = Hand(O,c,num,time)
 if sum(O=='Hand MovementsL88888')==length('Hand MovementsL')
-    e_list(c).sceneName = '10-hand-gestures';
+    e_list(c).sceneName = '12-hand-gestures';
     e_list(c).sceneTitle = 'Hand Movements';
     e_list(c).sceneIndex = 12;
     e_list(c).presentationTime = time;
@@ -14,7 +14,7 @@ if sum(O=='Hand MovementsL88888')==length('Hand MovementsL')
     e_list(c).option_dict.value_strings(3).PrettyName = 'Demo';
     
     c = c+1;
-    e_list(c).sceneName = '10-hand-gestures';
+    e_list(c).sceneName = '12-hand-gestures';
     e_list(c).sceneTitle = 'Hand Movements';
     e_list(c).sceneIndex = 12;
     e_list(c).presentationTime = time;
@@ -29,7 +29,7 @@ if sum(O=='Hand MovementsL88888')==length('Hand MovementsL')
     
     c = c+1;
     for q = 1:num
-        e_list(c).sceneName = '10-hand-gestures';
+        e_list(c).sceneName = '12-hand-gestures';
         e_list(c).sceneTitle = 'Hand Movements';
         e_list(c).sceneIndex = 12;
         e_list(c).presentationTime = time;
@@ -48,7 +48,7 @@ if sum(O=='Hand MovementsL88888')==length('Hand MovementsL')
 end
   
 if sum(O=='Hand MovementsM88888')==length('Hand MovementsM')
-    e_list(c).sceneName = '10-hand-gestures';
+    e_list(c).sceneName = '12-hand-gestures';
     e_list(c).sceneTitle = 'Hand Movements';
     e_list(c).sceneIndex = 12;
     e_list(c).presentationTime = time;
@@ -62,7 +62,7 @@ if sum(O=='Hand MovementsM88888')==length('Hand MovementsM')
     e_list(c).option_dict.value_strings(3).PrettyName = 'Demo';
     
     c = c+1;
-    e_list(c).sceneName = '10-hand-gestures';
+    e_list(c).sceneName = '12-hand-gestures';
     e_list(c).sceneTitle = 'Hand Movements';
     e_list(c).sceneIndex = 12;
     e_list(c).presentationTime = time;
@@ -77,7 +77,7 @@ if sum(O=='Hand MovementsM88888')==length('Hand MovementsM')
     
     c = c+1;
     for q = 1:num
-        e_list(c).sceneName = '10-hand-gestures';
+        e_list(c).sceneName = '12-hand-gestures';
         e_list(c).sceneTitle = 'Hand Movements';
         e_list(c).sceneIndex = 12;
         e_list(c).presentationTime = time;
@@ -95,7 +95,7 @@ if sum(O=='Hand MovementsM88888')==length('Hand MovementsM')
 end
 
 if sum(O=='Hand MovementsH88888')==length('Hand MovementsH')
-    e_list(c).sceneName = '10-hand-gestures';
+    e_list(c).sceneName = '12-hand-gestures';
     e_list(c).sceneTitle = 'Hand Movements';
     e_list(c).sceneIndex = 12;
     e_list(c).presentationTime = time;
@@ -109,7 +109,7 @@ if sum(O=='Hand MovementsH88888')==length('Hand MovementsH')
     e_list(c).option_dict.value_strings(3).PrettyName = 'Demo';
     
     c = c+1;
-    e_list(c).sceneName = '10-hand-gestures';
+    e_list(c).sceneName = '12-hand-gestures';
     e_list(c).sceneTitle = 'Hand Movements';
     e_list(c).sceneIndex = 12;
     e_list(c).presentationTime = time;
@@ -124,7 +124,7 @@ if sum(O=='Hand MovementsH88888')==length('Hand MovementsH')
     
     c = c+1;
     for q = 1:num
-        e_list(c).sceneName = '10-hand-gestures';
+        e_list(c).sceneName = '12-hand-gestures';
         e_list(c).sceneTitle = 'Hand Movements';
         e_list(c).sceneIndex = 12;
         e_list(c).presentationTime = time;

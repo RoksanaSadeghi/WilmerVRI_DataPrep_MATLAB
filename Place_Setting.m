@@ -1,6 +1,6 @@
 function [e_list,c] = Place_Setting(O,c,num,time)
 if sum(O=='Place SettingH888888')==length('Place SettingH')
-    e_list(c).sceneName = '16-place-setting-missing';
+    e_list(c).sceneName = '18-place-setting-missing';
     e_list(c).sceneTitle = 'Place Setting';
     e_list(c).sceneIndex = 18;
     e_list(c).presentationTime = time;
@@ -14,7 +14,7 @@ if sum(O=='Place SettingH888888')==length('Place SettingH')
     e_list(c).option_dict.value_strings(3).PrettyName = 'Demo';
     
     c = c+1;
-    e_list(c).sceneName = '16-place-setting-missing';
+    e_list(c).sceneName = '18-place-setting-missing';
     e_list(c).sceneTitle = 'Place Setting';
     e_list(c).sceneIndex = 18;
     e_list(c).presentationTime = time;
@@ -28,7 +28,7 @@ if sum(O=='Place SettingH888888')==length('Place SettingH')
     e_list(c).option_dict.value_strings(3).PrettyName = 'Demo';
     
     c = c+1;
-    e_list(c).sceneName = '16-place-setting-missing';
+    e_list(c).sceneName = '18-place-setting-missing';
     e_list(c).sceneTitle = 'Place Setting';
     e_list(c).sceneIndex = 18;
     e_list(c).presentationTime = time;
@@ -42,7 +42,7 @@ if sum(O=='Place SettingH888888')==length('Place SettingH')
     e_list(c).option_dict.value_strings(3).PrettyName = 'Demo';
     
     c = c+1;
-    e_list(c).sceneName = '16-place-setting-missing';
+    e_list(c).sceneName = '18-place-setting-missing';
     e_list(c).sceneTitle = 'Place Setting';
     e_list(c).sceneIndex = 18;
     e_list(c).presentationTime = time;
@@ -56,7 +56,7 @@ if sum(O=='Place SettingH888888')==length('Place SettingH')
     e_list(c).option_dict.value_strings(3).PrettyName = 'Demo';
     
     c = c+1;
-    e_list(c).sceneName = '16-place-setting-missing';
+    e_list(c).sceneName = '18-place-setting-missing';
     e_list(c).sceneTitle = 'Place Setting';
     e_list(c).sceneIndex = 18;
     e_list(c).presentationTime = time;
@@ -71,7 +71,7 @@ if sum(O=='Place SettingH888888')==length('Place SettingH')
     
     c = c+1;
     for q = 1:num
-        e_list(c).sceneName = '16-place-setting-missing';
+        e_list(c).sceneName = '18-place-setting-missing';
         e_list(c).sceneTitle = 'Place Setting';
         e_list(c).sceneIndex = 18;
         e_list(c).presentationTime = time;
@@ -90,7 +90,7 @@ if sum(O=='Place SettingH888888')==length('Place SettingH')
 end
 
 if sum(O=='Place SettingM888888')==length('Place SettingM')
-    e_list(c).sceneName = '16-place-setting-missing';
+    e_list(c).sceneName = '18-place-setting-missing';
     e_list(c).sceneTitle = 'Place Setting';
     e_list(c).sceneIndex = 18;
     e_list(c).presentationTime = time;
@@ -104,7 +104,7 @@ if sum(O=='Place SettingM888888')==length('Place SettingM')
     e_list(c).option_dict.value_strings(3).PrettyName = 'Demo';
     
     c = c+1;
-    e_list(c).sceneName = '16-place-setting-missing';
+    e_list(c).sceneName = '18-place-setting-missing';
     e_list(c).sceneTitle = 'Place Setting';
     e_list(c).sceneIndex = 18;
     e_list(c).presentationTime = time;
@@ -118,7 +118,7 @@ if sum(O=='Place SettingM888888')==length('Place SettingM')
     e_list(c).option_dict.value_strings(3).PrettyName = 'Demo';
     
     c = c+1;
-    e_list(c).sceneName = '16-place-setting-missing';
+    e_list(c).sceneName = '18-place-setting-missing';
     e_list(c).sceneTitle = 'Place Setting';
     e_list(c).sceneIndex = 18;
     e_list(c).presentationTime = time;
@@ -132,7 +132,7 @@ if sum(O=='Place SettingM888888')==length('Place SettingM')
     e_list(c).option_dict.value_strings(3).PrettyName = 'Demo';
     
     c = c+1;
-    e_list(c).sceneName = '16-place-setting-missing';
+    e_list(c).sceneName = '18-place-setting-missing';
     e_list(c).sceneTitle = 'Place Setting';
     e_list(c).sceneIndex = 18;
     e_list(c).presentationTime = time;
@@ -146,7 +146,7 @@ if sum(O=='Place SettingM888888')==length('Place SettingM')
     e_list(c).option_dict.value_strings(3).PrettyName = 'Demo';
     
     c = c+1;
-    e_list(c).sceneName = '16-place-setting-missing';
+    e_list(c).sceneName = '18-place-setting-missing';
     e_list(c).sceneTitle = 'Place Setting';
     e_list(c).sceneIndex = 18;
     e_list(c).presentationTime = time;
@@ -161,7 +161,7 @@ if sum(O=='Place SettingM888888')==length('Place SettingM')
     
     c = c+1;
     for q = 1:num
-        e_list(c).sceneName = '16-place-setting-missing';
+        e_list(c).sceneName = '18-place-setting-missing';
         e_list(c).sceneTitle = 'Place Setting';
         e_list(c).sceneIndex = 18;
         e_list(c).presentationTime = time;
@@ -180,7 +180,7 @@ if sum(O=='Place SettingM888888')==length('Place SettingM')
 end
 
 if sum(O=='Place SettingL888888')==length('Place SettingL')
-    e_list(c).sceneName = '16-place-setting-missing';
+    e_list(c).sceneName = '18-place-setting-missing';
     e_list(c).sceneTitle = 'Place Setting';
     e_list(c).sceneIndex = 18;
     e_list(c).presentationTime = time;
@@ -194,7 +194,7 @@ if sum(O=='Place SettingL888888')==length('Place SettingL')
     e_list(c).option_dict.value_strings(3).PrettyName = 'Demo';
     
     c = c+1;
-    e_list(c).sceneName = '16-place-setting-missing';
+    e_list(c).sceneName = '18-place-setting-missing';
     e_list(c).sceneTitle = 'Place Setting';
     e_list(c).sceneIndex = 18;
     e_list(c).presentationTime = time;
@@ -208,7 +208,7 @@ if sum(O=='Place SettingL888888')==length('Place SettingL')
     e_list(c).option_dict.value_strings(3).PrettyName = 'Demo';
     
     c = c+1;
-    e_list(c).sceneName = '16-place-setting-missing';
+    e_list(c).sceneName = '18-place-setting-missing';
     e_list(c).sceneTitle = 'Place Setting';
     e_list(c).sceneIndex = 18;
     e_list(c).presentationTime = time;
@@ -222,7 +222,7 @@ if sum(O=='Place SettingL888888')==length('Place SettingL')
     e_list(c).option_dict.value_strings(3).PrettyName = 'Demo';
     
     c = c+1;
-    e_list(c).sceneName = '16-place-setting-missing';
+    e_list(c).sceneName = '18-place-setting-missing';
     e_list(c).sceneTitle = 'Place Setting';
     e_list(c).sceneIndex = 18;
     e_list(c).presentationTime = time;
@@ -236,7 +236,7 @@ if sum(O=='Place SettingL888888')==length('Place SettingL')
     e_list(c).option_dict.value_strings(3).PrettyName = 'Demo';
     
     c = c+1;
-    e_list(c).sceneName = '16-place-setting-missing';
+    e_list(c).sceneName = '18-place-setting-missing';
     e_list(c).sceneTitle = 'Place Setting';
     e_list(c).sceneIndex = 18;
     e_list(c).presentationTime = time;
@@ -251,7 +251,7 @@ if sum(O=='Place SettingL888888')==length('Place SettingL')
     
     c = c+1;
     for q = 1:num
-        e_list(c).sceneName = '16-place-setting-missing';
+        e_list(c).sceneName = '18-place-setting-missing';
         e_list(c).sceneTitle = 'Place Setting';
         e_list(c).sceneIndex = 18;
         e_list(c).presentationTime = time;

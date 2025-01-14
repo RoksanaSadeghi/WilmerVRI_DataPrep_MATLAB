@@ -1,6 +1,6 @@
 function [e_list,c] = Smudge(O,c,num,time)
 if sum(O=='SmudgeH8888888888888')==length('SmudgeH')
-    e_list(c).sceneName = '13-smudge-mirror';
+    e_list(c).sceneName = '15-smudge-mirror';
     e_list(c).sceneTitle = 'Smudge';
     e_list(c).sceneIndex = 15;
     e_list(c).presentationTime = time;
@@ -14,7 +14,7 @@ if sum(O=='SmudgeH8888888888888')==length('SmudgeH')
     e_list(c).option_dict.value_strings(3).PrettyName = 'Demo';
     
     c = c+1;
-    e_list(c).sceneName = '13-smudge-mirror';
+    e_list(c).sceneName = '15-smudge-mirror';
     e_list(c).sceneTitle = 'Smudge';
     e_list(c).sceneIndex = 15;
     e_list(c).presentationTime = time;
@@ -28,7 +28,7 @@ if sum(O=='SmudgeH8888888888888')==length('SmudgeH')
     e_list(c).option_dict.value_strings(3).PrettyName = 'Demo';
     
     c = c+1;
-    e_list(c).sceneName = '13-smudge-mirror';
+    e_list(c).sceneName = '15-smudge-mirror';
     e_list(c).sceneTitle = 'Smudge';
     e_list(c).sceneIndex = 15;
     e_list(c).presentationTime = time;
@@ -42,7 +42,7 @@ if sum(O=='SmudgeH8888888888888')==length('SmudgeH')
     e_list(c).option_dict.value_strings(3).PrettyName = 'Demo';
     
     c = c+1;
-    e_list(c).sceneName = '13-smudge-mirror';
+    e_list(c).sceneName = '15-smudge-mirror';
     e_list(c).sceneTitle = 'Smudge';
     e_list(c).sceneIndex = 15;
     e_list(c).presentationTime = time;
@@ -57,7 +57,7 @@ if sum(O=='SmudgeH8888888888888')==length('SmudgeH')
     
     c = c+1;
     for q = 1:num
-        e_list(c).sceneName = '13-smudge-mirror';
+        e_list(c).sceneName = '15-smudge-mirror';
         e_list(c).sceneTitle = 'Smudge';
         e_list(c).sceneIndex = 15;
         e_list(c).presentationTime = time;
@@ -75,7 +75,7 @@ if sum(O=='SmudgeH8888888888888')==length('SmudgeH')
 end
 
 if sum(O=='SmudgeM8888888888888')==length('SmudgeM')
-    e_list(c).sceneName = '13-smudge-mirror';
+    e_list(c).sceneName = '15-smudge-mirror';
     e_list(c).sceneTitle = 'Smudge';
     e_list(c).sceneIndex = 15;
     e_list(c).presentationTime = time;
@@ -89,7 +89,7 @@ if sum(O=='SmudgeM8888888888888')==length('SmudgeM')
     e_list(c).option_dict.value_strings(3).PrettyName = 'Demo';
     
     c = c+1;
-    e_list(c).sceneName = '13-smudge-mirror';
+    e_list(c).sceneName = '15-smudge-mirror';
     e_list(c).sceneTitle = 'Smudge';
     e_list(c).sceneIndex = 15;
     e_list(c).presentationTime = time;
@@ -103,7 +103,7 @@ if sum(O=='SmudgeM8888888888888')==length('SmudgeM')
     e_list(c).option_dict.value_strings(3).PrettyName = 'Demo';
     
     c = c+1;
-    e_list(c).sceneName = '13-smudge-mirror';
+    e_list(c).sceneName = '15-smudge-mirror';
     e_list(c).sceneTitle = 'Smudge';
     e_list(c).sceneIndex = 15;
     e_list(c).presentationTime = time;
@@ -117,7 +117,7 @@ if sum(O=='SmudgeM8888888888888')==length('SmudgeM')
     e_list(c).option_dict.value_strings(3).PrettyName = 'Demo';
     
     c = c+1;
-    e_list(c).sceneName = '13-smudge-mirror';
+    e_list(c).sceneName = '15-smudge-mirror';
     e_list(c).sceneTitle = 'Smudge';
     e_list(c).sceneIndex = 15;
     e_list(c).presentationTime = time;
@@ -132,7 +132,7 @@ if sum(O=='SmudgeM8888888888888')==length('SmudgeM')
     
     c = c+1;
     for q = 1:num
-        e_list(c).sceneName = '13-smudge-mirror';
+        e_list(c).sceneName = '15-smudge-mirror';
         e_list(c).sceneTitle = 'Smudge';
         e_list(c).sceneIndex = 15;
         e_list(c).presentationTime = time;
@@ -150,7 +150,7 @@ if sum(O=='SmudgeM8888888888888')==length('SmudgeM')
 end
 
 if sum(O=='SmudgeL8888888888888')==length('SmudgeL')
-    e_list(c).sceneName = '13-smudge-mirror';
+    e_list(c).sceneName = '15-smudge-mirror';
     e_list(c).sceneTitle = 'Smudge';
     e_list(c).sceneIndex = 15;
     e_list(c).presentationTime = time;
@@ -164,7 +164,7 @@ if sum(O=='SmudgeL8888888888888')==length('SmudgeL')
     e_list(c).option_dict.value_strings(3).PrettyName = 'Demo';
     
     c = c+1;
-    e_list(c).sceneName = '13-smudge-mirror';
+    e_list(c).sceneName = '15-smudge-mirror';
     e_list(c).sceneTitle = 'Smudge';
     e_list(c).sceneIndex = 15;
     e_list(c).presentationTime = time;
@@ -178,7 +178,7 @@ if sum(O=='SmudgeL8888888888888')==length('SmudgeL')
     e_list(c).option_dict.value_strings(3).PrettyName = 'Demo';
     
     c = c+1;
-    e_list(c).sceneName = '13-smudge-mirror';
+    e_list(c).sceneName = '15-smudge-mirror';
     e_list(c).sceneTitle = 'Smudge';
     e_list(c).sceneIndex = 15;
     e_list(c).presentationTime = time;
@@ -192,7 +192,7 @@ if sum(O=='SmudgeL8888888888888')==length('SmudgeL')
     e_list(c).option_dict.value_strings(3).PrettyName = 'Demo';
     
     c = c+1;
-    e_list(c).sceneName = '13-smudge-mirror';
+    e_list(c).sceneName = '15-smudge-mirror';
     e_list(c).sceneTitle = 'Smudge';
     e_list(c).sceneIndex = 15;
     e_list(c).presentationTime = time;
@@ -207,7 +207,7 @@ if sum(O=='SmudgeL8888888888888')==length('SmudgeL')
     
     c = c+1;
     for q = 1:num
-        e_list(c).sceneName = '13-smudge-mirror';
+        e_list(c).sceneName = '15-smudge-mirror';
         e_list(c).sceneTitle = 'Smudge';
         e_list(c).sceneIndex = 15;
         e_list(c).presentationTime = time;

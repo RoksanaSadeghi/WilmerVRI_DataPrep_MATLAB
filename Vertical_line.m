@@ -1,6 +1,6 @@
 function [e_list,c] = Vertical_line(O,c,num,time)
 if sum(O=='Vertical LineH888888')==length('Vertical LineH')
-    e_list(c).sceneName = '14-guitar-strap';
+    e_list(c).sceneName = '16-guitar-strap';
     e_list(c).sceneTitle = 'Vertical Line';
     e_list(c).sceneIndex = 16;
     e_list(c).presentationTime = time;
@@ -14,7 +14,7 @@ if sum(O=='Vertical LineH888888')==length('Vertical LineH')
     e_list(c).option_dict.value_strings(3).PrettyName = 'Demo';
     
     c = c+1;
-    e_list(c).sceneName = '14-guitar-strap';
+    e_list(c).sceneName = '16-guitar-strap';
     e_list(c).sceneTitle = 'Vertical Line';
     e_list(c).sceneIndex = 16;
     e_list(c).presentationTime = time;
@@ -28,7 +28,7 @@ if sum(O=='Vertical LineH888888')==length('Vertical LineH')
     e_list(c).option_dict.value_strings(3).PrettyName = 'Demo';
     
     c = c+1;
-    e_list(c).sceneName = '14-guitar-strap';
+    e_list(c).sceneName = '16-guitar-strap';
     e_list(c).sceneTitle = 'Vertical Line';
     e_list(c).sceneIndex = 16;
     e_list(c).presentationTime = time;
@@ -43,7 +43,7 @@ if sum(O=='Vertical LineH888888')==length('Vertical LineH')
     
     c = c+1;
     for q = 1:num
-        e_list(c).sceneName = '14-guitar-strap';
+        e_list(c).sceneName = '16-guitar-strap';
         e_list(c).sceneTitle = 'Vertical Line';
         e_list(c).sceneIndex = 16;
         e_list(c).presentationTime = time;
@@ -61,7 +61,7 @@ if sum(O=='Vertical LineH888888')==length('Vertical LineH')
 end
 
 if sum(O=='Vertical LineM888888')==length('Vertical LineM')
-    e_list(c).sceneName = '14-guitar-strap';
+    e_list(c).sceneName = '16-guitar-strap';
     e_list(c).sceneTitle = 'Vertical Line';
     e_list(c).sceneIndex = 16;
     e_list(c).presentationTime = time;
@@ -75,7 +75,7 @@ if sum(O=='Vertical LineM888888')==length('Vertical LineM')
     e_list(c).option_dict.value_strings(3).PrettyName = 'Demo';
     
     c = c+1;
-    e_list(c).sceneName = '14-guitar-strap';
+    e_list(c).sceneName = '16-guitar-strap';
     e_list(c).sceneTitle = 'Vertical Line';
     e_list(c).sceneIndex = 16;
     e_list(c).presentationTime = time;
@@ -89,7 +89,7 @@ if sum(O=='Vertical LineM888888')==length('Vertical LineM')
     e_list(c).option_dict.value_strings(3).PrettyName = 'Demo';
     
     c = c+1;
-    e_list(c).sceneName = '14-guitar-strap';
+    e_list(c).sceneName = '16-guitar-strap';
     e_list(c).sceneTitle = 'Vertical Line';
     e_list(c).sceneIndex = 16;
     e_list(c).presentationTime = time;
@@ -104,7 +104,7 @@ if sum(O=='Vertical LineM888888')==length('Vertical LineM')
     
     c = c+1;
     for q = 1:num
-        e_list(c).sceneName = '14-guitar-strap';
+        e_list(c).sceneName = '16-guitar-strap';
         e_list(c).sceneTitle = 'Vertical Line';
         e_list(c).sceneIndex = 16;
         e_list(c).presentationTime = time;
@@ -122,7 +122,7 @@ if sum(O=='Vertical LineM888888')==length('Vertical LineM')
 end
 
 if sum(O=='Vertical LineL888888')==length('Vertical LineL')
-    e_list(c).sceneName = '14-guitar-strap';
+    e_list(c).sceneName = '16-guitar-strap';
     e_list(c).sceneTitle = 'Vertical Line';
     e_list(c).sceneIndex = 16;
     e_list(c).presentationTime = time;
@@ -136,7 +136,7 @@ if sum(O=='Vertical LineL888888')==length('Vertical LineL')
     e_list(c).option_dict.value_strings(3).PrettyName = 'Demo';
     
     c = c+1;
-    e_list(c).sceneName = '14-guitar-strap';
+    e_list(c).sceneName = '16-guitar-strap';
     e_list(c).sceneTitle = 'Vertical Line';
     e_list(c).sceneIndex = 16;
     e_list(c).presentationTime = time;
@@ -150,7 +150,7 @@ if sum(O=='Vertical LineL888888')==length('Vertical LineL')
     e_list(c).option_dict.value_strings(3).PrettyName = 'Demo';
     
     c = c+1;
-    e_list(c).sceneName = '14-guitar-strap';
+    e_list(c).sceneName = '16-guitar-strap';
     e_list(c).sceneTitle = 'Vertical Line';
     e_list(c).sceneIndex = 16;
     e_list(c).presentationTime = time;
@@ -165,7 +165,7 @@ if sum(O=='Vertical LineL888888')==length('Vertical LineL')
     
     c = c+1;
     for q = 1:num
-        e_list(c).sceneName = '14-guitar-strap';
+        e_list(c).sceneName = '16-guitar-strap';
         e_list(c).sceneTitle = 'Vertical Line';
         e_list(c).sceneIndex = 16;
         e_list(c).presentationTime = time;

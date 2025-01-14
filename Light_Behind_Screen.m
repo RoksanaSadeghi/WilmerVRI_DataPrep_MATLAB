@@ -1,6 +1,6 @@
 function [e_list,c] = Light_Behind_Screen(O,c,num,time)
 if sum(ismember(O,'H'))==1
-    e_list(c).sceneName = '07-white-spot-on-screen';
+    e_list(c).sceneName = '09-white-spot-on-screen';
     e_list(c).sceneTitle = 'Light Behind Screen';
     e_list(c).sceneIndex = 9;
     e_list(c).presentationTime = time;
@@ -14,7 +14,7 @@ if sum(ismember(O,'H'))==1
     e_list(c).option_dict.value_strings(3).PrettyName = 'Demo';
     
     c = c+1;
-    e_list(c).sceneName = '07-white-spot-on-screen';
+    e_list(c).sceneName = '09-white-spot-on-screen';
     e_list(c).sceneTitle = 'Light Behind Screen';
     e_list(c).sceneIndex = 9;
     e_list(c).presentationTime = time;
@@ -28,7 +28,7 @@ if sum(ismember(O,'H'))==1
     e_list(c).option_dict.value_strings(3).PrettyName = 'Demo';
     
     c = c+1;
-    e_list(c).sceneName = '07-white-spot-on-screen';
+    e_list(c).sceneName = '09-white-spot-on-screen';
     e_list(c).sceneTitle = 'Light Behind Screen';
     e_list(c).sceneIndex = 9;
     e_list(c).presentationTime = time;
@@ -42,7 +42,7 @@ if sum(ismember(O,'H'))==1
     e_list(c).option_dict.value_strings(3).PrettyName = 'Demo';
     
     c = c+1;
-    e_list(c).sceneName = '07-white-spot-on-screen';
+    e_list(c).sceneName = '09-white-spot-on-screen';
     e_list(c).sceneTitle = 'Light Behind Screen';
     e_list(c).sceneIndex = 9;
     e_list(c).presentationTime = time;
@@ -57,7 +57,7 @@ if sum(ismember(O,'H'))==1
     
     c = c+1;
     for q = 1:num
-        e_list(c).sceneName = '07-white-spot-on-screen';
+        e_list(c).sceneName = '09-white-spot-on-screen';
         e_list(c).sceneTitle = 'Light Behind Screen';
         e_list(c).sceneIndex = 9;
         e_list(c).presentationTime = time;
@@ -76,7 +76,7 @@ end
 
 
 if sum(ismember(O,'M'))==1
-    e_list(c).sceneName = '07-white-spot-on-screen';
+    e_list(c).sceneName = '09-white-spot-on-screen';
     e_list(c).sceneTitle = 'Light Behind Screen';
     e_list(c).sceneIndex = 9;
     e_list(c).presentationTime = time;
@@ -90,7 +90,7 @@ if sum(ismember(O,'M'))==1
     e_list(c).option_dict.value_strings(3).PrettyName = 'Demo';
     
     c = c+1;
-    e_list(c).sceneName = '07-white-spot-on-screen';
+    e_list(c).sceneName = '09-white-spot-on-screen';
     e_list(c).sceneTitle = 'Light Behind Screen';
     e_list(c).sceneIndex = 9;
     e_list(c).presentationTime = time;
@@ -104,7 +104,7 @@ if sum(ismember(O,'M'))==1
     e_list(c).option_dict.value_strings(3).PrettyName = 'Demo';
     
     c = c+1;
-    e_list(c).sceneName = '07-white-spot-on-screen';
+    e_list(c).sceneName = '09-white-spot-on-screen';
     e_list(c).sceneTitle = 'Light Behind Screen';
     e_list(c).sceneIndex = 9;
     e_list(c).presentationTime = time;
@@ -118,7 +118,7 @@ if sum(ismember(O,'M'))==1
     e_list(c).option_dict.value_strings(3).PrettyName = 'Demo';
     
     c = c+1;
-    e_list(c).sceneName = '07-white-spot-on-screen';
+    e_list(c).sceneName = '09-white-spot-on-screen';
     e_list(c).sceneTitle = 'Light Behind Screen';
     e_list(c).sceneIndex = 9;
     e_list(c).presentationTime = time;
@@ -133,7 +133,7 @@ if sum(ismember(O,'M'))==1
     
     c = c+1;
     for q = 1:num
-        e_list(c).sceneName = '07-white-spot-on-screen';
+        e_list(c).sceneName = '09-white-spot-on-screen';
         e_list(c).sceneTitle = 'Light Behind Screen';
         e_list(c).sceneIndex = 9;
         e_list(c).presentationTime = time;
@@ -152,7 +152,7 @@ end
 
 
 if sum(O=='Light Behind ScreenL')==length('Light Behind ScreenL')
-    e_list(c).sceneName = '07-white-spot-on-screen';
+    e_list(c).sceneName = '09-white-spot-on-screen';
     e_list(c).sceneTitle = 'Light Behind Screen';
     e_list(c).sceneIndex = 9;
     e_list(c).presentationTime = time;
@@ -166,7 +166,7 @@ if sum(O=='Light Behind ScreenL')==length('Light Behind ScreenL')
     e_list(c).option_dict.value_strings(3).PrettyName = 'Demo';
     
     c = c+1;
-    e_list(c).sceneName = '07-white-spot-on-screen';
+    e_list(c).sceneName = '09-white-spot-on-screen';
     e_list(c).sceneTitle = 'Light Behind Screen';
     e_list(c).sceneIndex = 9;
     e_list(c).presentationTime = time;
@@ -180,7 +180,7 @@ if sum(O=='Light Behind ScreenL')==length('Light Behind ScreenL')
     e_list(c).option_dict.value_strings(3).PrettyName = 'Demo';
     
     c = c+1;
-    e_list(c).sceneName = '07-white-spot-on-screen';
+    e_list(c).sceneName = '09-white-spot-on-screen';
     e_list(c).sceneTitle = 'Light Behind Screen';
     e_list(c).sceneIndex = 9;
     e_list(c).presentationTime = time;
@@ -194,7 +194,7 @@ if sum(O=='Light Behind ScreenL')==length('Light Behind ScreenL')
     e_list(c).option_dict.value_strings(3).PrettyName = 'Demo';
     
     c = c+1;
-    e_list(c).sceneName = '07-white-spot-on-screen';
+    e_list(c).sceneName = '09-white-spot-on-screen';
     e_list(c).sceneTitle = 'Light Behind Screen';
     e_list(c).sceneIndex = 9;
     e_list(c).presentationTime = time;
@@ -209,7 +209,7 @@ if sum(O=='Light Behind ScreenL')==length('Light Behind ScreenL')
     
     c = c+1;
     for q = 1:num
-        e_list(c).sceneName = '07-white-spot-on-screen';
+        e_list(c).sceneName = '09-white-spot-on-screen';
         e_list(c).sceneTitle = 'Light Behind Screen';
         e_list(c).sceneIndex = 9;
         e_list(c).presentationTime = time;
